@@ -1,0 +1,12 @@
+//1. Tools
+@import "../styles/1.Tools/_variables.scss";
+@import "../styles/1.Tools/_fonts.scss";
+@import "../styles/1.Tools/_mixins.scss";
+
+//2. Generic
+@import "../styles/2.Generic/_resets.scss";
+@import "../styles/2.Generic/_sitewide.scss";
+//3. Components
+@import "../styles/3.Components/_components.scss";
+//4 .Extras
+@import "../styles/4.Extras/extras.scss";
